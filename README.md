@@ -11,7 +11,7 @@ Persist financial data in a JSON file
 Operate entirely from the terminal for quick and distraction-free finance management
 
 Instalation:
-clone the repository: git clone https://github.com/Saria-Rukhsar/finance-manager.git
+clone the repository: git clone (https://github.com/Saria-Rukhsar/CLI-Based-Personal-Finance-Manager)
 navigate to the project diroctory: cd finance-manager
 
 How to Run:
